@@ -1,0 +1,42 @@
+{
+  "marginTop_1": {
+    "marginTop": 5
+  },
+  "row": {
+    "flexDirection": "row",
+    "flexWrap": "wrap"
+  },
+  "bg_dark": {
+    "backgroundColor": "#0D0D0D"
+  },
+  "bg_white": {
+    "backgroundColor": "#FFFFFF"
+  },
+  "bg_light": {
+    "backgroundColor": "#F5F5F6"
+  },
+  "bg_primary": {
+    "backgroundColor": "#73665F"
+  },
+  "bg_danger": {
+    "backgroundColor": "#4fa8fb"
+  },
+  "text_dark": {
+    "color": "#0D0D0D"
+  },
+  "text_white": {
+    "color": "#FFFFFF"
+  },
+  "text_light": {
+    "color": "#F5F5F6"
+  },
+  "text_primary": {
+    "color": "#73665F"
+  },
+  "text_danger": {
+    "color": "#FB6C6C"
+  },
+  "w_80": {
+    "width": 150
+  }
+}
